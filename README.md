@@ -37,5 +37,6 @@ You need a Python compiler and the libraries that the project uses
 
 ## Acknowledgments
 * [FImage library](https://github.com/jordandjp/fimage)
+* [NASA API](https://api.nasa.gov)
 
 
