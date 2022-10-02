@@ -26,10 +26,10 @@ You need a Python compiler and the libraries that the project uses
 
 ## Authors
 
-Nikola Krastanov
-Mihail Petrov
-Pavel Simeonov
-Mihael Ivanov
+* Nikola Krastanov
+* Mihail Petrov
+* Pavel Simeonov
+* Mihael Ivanov
 
 ## Version History
 * 1.0
